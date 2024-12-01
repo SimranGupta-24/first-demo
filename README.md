@@ -1,3 +1,4 @@
 # first-demo
 This is my first Git repository.
-Autor name-Simran Gupta
+<br>
+Author name-Simran Gupta
